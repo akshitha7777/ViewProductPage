@@ -1,0 +1,29 @@
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-left: none;
+  border-right: none;
+  border-color: gray;
+}
+table{
+	width: 100%;
+}
+.box{
+	width: 30px;
+	height: 30px;
+    margin-left: 5px;
+	background-color: gray;
+}
+.btn{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 19px;
+}
+.product-name{
+	color: #0096FF;
+}
+.pagination{
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
