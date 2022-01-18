@@ -4,16 +4,20 @@ table, th, td {
   border-collapse: collapse;
   border-left: none;
   border-right: none;
-  border-color: gray;
+  border-color: #D3D3D3;
 }
 table{
 	width: 100%;
 }
-.box{
-	width: 30px;
-	height: 30px;
-    margin-left: 5px;
-	background-color: gray;
+.content{
+	color: 	#696969;
+}
+.btn1{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 19px;
+	border-color: orange;
+	background-color: orange;
 }
 .btn{
 	margin-top: 5px;
@@ -26,4 +30,9 @@ table{
 .pagination{
 	margin-top: 3px;
 	margin-bottom: 3px;
+}
+img{
+	height: 30px;
+	width: 30px;
+	margin-left: 5px;
 }
